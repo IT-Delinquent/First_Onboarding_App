@@ -1,6 +1,6 @@
 # onboarding_test
 
-A new Flutter project.
+This is my first Flutter app so I decided to go for a nice easy onboarding app.
 
 ## Getting Started
 
